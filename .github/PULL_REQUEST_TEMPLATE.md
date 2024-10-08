@@ -24,7 +24,6 @@
 
 -   Tested feature X in scenario Y.
 -   Ran unit tests for component Z.
--   Tested on browsers A, B, and C.
 -   ...
 
 
